@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name        TV Time - TPB, Google and Addic7ed search buttons
 // @description Provide a "Search in TPB, Google or Addic7ed" button in the "show" and "to-watch" pages
+// @downloadURL https://github.com/army113/tvtimebuttons/raw/master/tvtimebuttons.user.js
 // @namespace   https://github.com/army113/tvtimebuttons
 // @include     http*://www.tvshowtime.com/*
 // @include     http*://www.tvtime.com/*
